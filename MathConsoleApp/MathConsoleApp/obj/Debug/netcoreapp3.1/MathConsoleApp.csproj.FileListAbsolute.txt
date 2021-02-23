@@ -1,0 +1,13 @@
+C:\Users\kli\source\repos\MathConsoleApp\MathConsoleApp\bin\Debug\netcoreapp3.1\MathConsoleApp.exe
+C:\Users\kli\source\repos\MathConsoleApp\MathConsoleApp\bin\Debug\netcoreapp3.1\MathConsoleApp.deps.json
+C:\Users\kli\source\repos\MathConsoleApp\MathConsoleApp\bin\Debug\netcoreapp3.1\MathConsoleApp.runtimeconfig.json
+C:\Users\kli\source\repos\MathConsoleApp\MathConsoleApp\bin\Debug\netcoreapp3.1\MathConsoleApp.runtimeconfig.dev.json
+C:\Users\kli\source\repos\MathConsoleApp\MathConsoleApp\bin\Debug\netcoreapp3.1\MathConsoleApp.dll
+C:\Users\kli\source\repos\MathConsoleApp\MathConsoleApp\bin\Debug\netcoreapp3.1\MathConsoleApp.pdb
+C:\Users\kli\source\repos\MathConsoleApp\MathConsoleApp\obj\Debug\netcoreapp3.1\MathConsoleApp.csprojAssemblyReference.cache
+C:\Users\kli\source\repos\MathConsoleApp\MathConsoleApp\obj\Debug\netcoreapp3.1\MathConsoleApp.AssemblyInfoInputs.cache
+C:\Users\kli\source\repos\MathConsoleApp\MathConsoleApp\obj\Debug\netcoreapp3.1\MathConsoleApp.AssemblyInfo.cs
+C:\Users\kli\source\repos\MathConsoleApp\MathConsoleApp\obj\Debug\netcoreapp3.1\MathConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kli\source\repos\MathConsoleApp\MathConsoleApp\obj\Debug\netcoreapp3.1\MathConsoleApp.dll
+C:\Users\kli\source\repos\MathConsoleApp\MathConsoleApp\obj\Debug\netcoreapp3.1\MathConsoleApp.pdb
+C:\Users\kli\source\repos\MathConsoleApp\MathConsoleApp\obj\Debug\netcoreapp3.1\MathConsoleApp.genruntimeconfig.cache
